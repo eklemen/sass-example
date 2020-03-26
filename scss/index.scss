@@ -44,5 +44,11 @@ button.edit {
 
 .top-30 {
   margin-top: 30px;
+  .text-blue {
+    color: cornflowerblue;
+  }
+  &.text-green {
+    color: green;
+  }
 }
   

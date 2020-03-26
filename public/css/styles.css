@@ -45,3 +45,11 @@ button.edit {
 .top-30 {
   margin-top: 30px;
 }
+.top-30 .text-blue {
+  color: cornflowerblue;
+}
+.top-30.text-green {
+  color: green;
+}
+
+/*# sourceMappingURL=styles.css.map */
